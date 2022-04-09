@@ -18,4 +18,5 @@ module.exports = {
                }
           ]
      },
+     base: '/saas-ui/'
 }
