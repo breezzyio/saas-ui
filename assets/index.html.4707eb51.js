@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"My Component library",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:3,title:"Installation",slug:"installation",children:[]}],git:{updatedTime:1649519105e3,contributors:[{name:"Claudiu Plesa",email:"claudiu.plesa@magicpixel.ro",commits:2}]},filePathRelative:"README.md"};export{e as data};
