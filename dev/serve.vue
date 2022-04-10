@@ -13,6 +13,6 @@ export default defineComponent({
 
 <template>
   <div id="app">
-    <breezzyio/saas-ui-sample />
+    <main-icon :component="'iconCompany'"></main-icon>
   </div>
 </template>

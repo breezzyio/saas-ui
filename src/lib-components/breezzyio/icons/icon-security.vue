@@ -2,7 +2,7 @@
      import { defineComponent } from 'vue';
 
      export default /*#__PURE__*/defineComponent({
-        name: 'Breezzyio/iconSecurity', // vue component name
+        name: 'iconSecurity', // vue component name
      });
 </script>
 

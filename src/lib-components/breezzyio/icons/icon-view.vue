@@ -1,8 +1,8 @@
 <script>
      import { defineComponent } from 'vue';
-     
+
      export default /*#__PURE__*/defineComponent({
-        name: 'Breezzyio/iconView', // vue component name
+        name: 'iconView', // vue component name
      });
 
 </script>

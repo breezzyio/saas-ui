@@ -2,7 +2,7 @@
 import { defineComponent } from 'vue';
 
 export default /*#__PURE__*/defineComponent({
-  name: 'Breezzyio/saasUiSample', // vue component name
+  name: 'saasUiSample', // vue component name
   data() {
     return {
       counter: 5,
@@ -43,7 +43,7 @@ export default /*#__PURE__*/defineComponent({
 </script>
 
 <template>
-  <div class="breezzyio/saas-ui-sample">
+  <div class="saas-ui-sample">
     <p>The counter was {{ changedBy }} to <b>{{ counter }}</b>.</p>
     <button @click="increment">
       Click +1
@@ -64,7 +64,7 @@ export default /*#__PURE__*/defineComponent({
 </template>
 
 <style scoped>
-  .breezzyio/saas-ui-sample {
+  .saas-ui-sample {
     display: block;
     width: 400px;
     margin: 25px auto;
@@ -73,7 +73,7 @@ export default /*#__PURE__*/defineComponent({
     text-align: center;
     padding: 25px;
   }
-  .breezzyio/saas-ui-sample p {
+  .saas-ui-sample p {
     margin: 0 0 1em;
   }
 </style>

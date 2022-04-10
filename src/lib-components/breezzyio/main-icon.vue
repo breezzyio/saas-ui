@@ -2,26 +2,20 @@
 
 import { defineComponent } from 'vue';
 
-// import IconTenants from './icons/IconTenants.vue'
-// import IconReviews from './icons/IconReviews.vue'
-// import IconCompany from './icons/IconCompany.vue'
-
-
-// export default {
-//      name: 'main-icon',
-//      props:['component'],
-//      components: {
-//           IconTenants,
-//           IconReviews,
-//           IconCompany
-//      },
-// }
+import iconTenants from './icons/icon-tenants.vue'
+import iconReviews from './icons/icon-reviews.vue'
+import iconCompany from './icons/icon-company.vue'
 
 
 export default /*#__PURE__*/defineComponent({
-  name: 'Breezzyio/mainIcon', // vue component name
+     name: 'mainIcon', // vue component name
+     props:['component'],
+     components: {
+          iconTenants,
+          iconReviews,
+          iconCompany
+     },
 });
-
 
 </script>
 
