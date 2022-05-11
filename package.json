@@ -1,6 +1,6 @@
 {
   "name": "@breezzyio/saas-ui",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "dist/breezzyio/saas-ui.ssr.js",
   "browser": "dist/breezzyio/saas-ui.esm.js",
