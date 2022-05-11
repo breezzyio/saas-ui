@@ -48,5 +48,8 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "dependencies": {
+    "@syncfusion/ej2-data": "^20.1.47"
   }
 }

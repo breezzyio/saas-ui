@@ -13,6 +13,6 @@ export default defineComponent({
 
 <template>
   <div id="app">
-    <main-icon :component="'iconReviews'"></main-icon>
+    <main-icon :component="'iconTenants'"></main-icon>
   </div>
 </template>
